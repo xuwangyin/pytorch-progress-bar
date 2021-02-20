@@ -1,2 +1,1 @@
-# pytorch-progress-bar
-Demonstrate how to use progress bar in pytorch
+# PyTorch training with early stopping and a progress bar
